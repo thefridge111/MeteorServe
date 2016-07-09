@@ -5,6 +5,7 @@
     "start": "meteor run"
   },
   "dependencies": {
+    "jshint": "^2.9.2",
     "meteor-node-stubs": "~0.2.0"
   },
   "devDependencies": {
